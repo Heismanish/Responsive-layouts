@@ -15,7 +15,7 @@ Learning repsonsive layouts with kevin powell
 
 ## Avoid Heights:
 
-- Heights can cause child to overflow vertically so avoid giving heights to the parent.
+- Heights can cause child elemnts to overflow vertically in smaller screens, so avoid giving heights to the parent.
 
 </br>
 
@@ -64,4 +64,31 @@ For example:
 - For Paddings
 - For Buttons(to keep the dimension of the buttons consistent)
 - In paragraphs(where we want font-sizes to adjust accordingly w.r.t. the parent)
--
+
+</br>
+
+## Using **max-width**:
+
+- **max-width** sets a maximum width to a container after which the container doesn't expands.
+
+</br>
+
+## CSS Units: **vh, vw, vmin, vmax**
+
+### <u>**vh**</u>:
+
+- **vh** gives size according to the viewport's **height**.
+
+### <u>**vw**</u>:
+
+- **vw** gives size according to the viewport's **width**.
+
+### <u>**vmin**</u>:
+
+- **vmin** gives size according to the viewport's **smaller dimension**, that is, according to height of viewport if height is smaller and width if it's width is smaller.
+
+- Might be a goodd idea to use for the **headings** of the paragraphs.
+
+### <u>**vmax**</u>:
+
+- **vmax** gives size according to the viewport's **larger dimension**, that is, according to height of viewport if height is larger and width if it's width is larger.
