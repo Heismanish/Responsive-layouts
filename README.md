@@ -53,7 +53,7 @@ Since em's have a compounding nature, font-size of child increases/decreases in 
 For example:
 
 - Here, child list's are getting enlarged on increasing the font size of the parent list.
-  <img align="left" src="em-compounding.png" style="width:50%;display:inline-block"/>
+  <img align="left" src="em-compounding.png" style="width:50%;display:inline"/>
   <img src="em-cmpd.png" style="width:50%;display:inline;"/>
 
 </br>
