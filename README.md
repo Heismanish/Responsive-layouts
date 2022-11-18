@@ -92,3 +92,15 @@ For example:
 ### <u>**vmax**</u>:
 
 - **vmax** gives size according to the viewport's **larger dimension**, that is, according to height of viewport if height is larger and width if it's width is larger.
+
+</br>
+
+# **Flexbox:**
+
+### Flexbox (by default) converts parent into a row and all the child elements to column in the parent.
+
+### For exmaple:
+
+  <img align="left" src="flex-eg1.png" style="width:80%;display:block"/>
+  </br>
+   <img src="flex-eg2.png" style="width:80%;"/>
