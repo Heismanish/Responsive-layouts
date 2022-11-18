@@ -101,6 +101,6 @@ For example:
 
 ### For exmaple:
 
-  <img align="left" src="flex-eg1.png" style="width:80%;display:block"/>
-  </br>
-   <img src="flex-eg2.png" style="width:80%;"/>
+- <img align="center" src="flex-eg1.png" style="width:80%;"/>
+- :point_up: to :point_down:
+- <img align="center" src="flex-eg2.png" style="width:80%;"/>
