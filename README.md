@@ -97,10 +97,14 @@ For example:
 
 # **Flexbox:**
 
-### Flexbox (by default) converts parent into a row and all the child elements to column in the parent.
-
-### For exmaple:
+- ### Flexbox (by default) converts parent into a row and all the child elements to column in the parent, for example;
 
 - <img align="center" src="flex-eg1.png" style="width:80%;"/>
 - :point_up: to :point_down:
 - <img align="center" src="flex-eg2.png" style="width:80%;"/>
+
+- ### Shrink in width.
+
+- ### Stretch to match height, that is, to keep the height equal.
+
+- ### For images, put max-width: 100%; to make images repsonsive inside a flex container.
