@@ -8,6 +8,13 @@ html {
 	font-size: 62.5%;
 }
 
+/* Making image responsive */
+img {
+	max-width: 100%;
+	width: 32%;
+	align-self: flex-start;
+}
+
 /* font-family: "Playfair Display", serif;
 	font-family: "Roboto", sans-serif; */
 
