@@ -3,3 +3,30 @@
 	margin: 0;
 	padding: 0;
 }
+
+html {
+	font-size: 62.5%;
+}
+/* font-family: "Playfair Display", serif;
+	font-family: "Roboto", sans-serif; */
+body {
+}
+
+.hero-parent {
+	background-color: #f3eed9;
+}
+
+.container {
+	width: 80%;
+	max-width: 1128px;
+	margin: 0 auto;
+}
+
+.hero {
+	text-align: center;
+}
+
+.hero-sub-head {
+	text-transform: uppercase;
+	letter-spacing: 1.2px;
+}
