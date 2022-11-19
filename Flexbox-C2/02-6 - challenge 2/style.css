@@ -98,6 +98,15 @@ h1 {
 
 .first-col {
 	color: #136c72;
+	width: 62%;
+}
+
+.second-col {
+	width: 32%;
+	background-color: #136c72;
+	margin: 3.2rem 0 3.2rem 0;
+	padding: 3.2rem;
+	color: #fff;
 }
 
 .first-head {
@@ -108,13 +117,6 @@ h1 {
 .first-para {
 	font-size: 1.4rem;
 	line-height: 1.5;
-}
-
-.second-col {
-	background-color: #136c72;
-	margin: 3.2rem 0 3.2rem 0;
-	padding: 3.2rem;
-	color: #fff;
 }
 
 .second-col-text {
@@ -129,6 +131,7 @@ h1 {
 	font-size: 3.2rem;
 	margin-bottom: 1rem;
 }
+
 .second-para {
 	font-size: 1.5rem;
 	line-height: 1.4;
